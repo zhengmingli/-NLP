@@ -1,0 +1,2898 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "问答系统",
+  "desc": "",
+  "culture": "zh-cn",
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "人名"
+    },
+    {
+      "name": "地点"
+    },
+    {
+      "name": "数词"
+    },
+    {
+      "name": "时间"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "纯韩螺旋吸脂减肥技术能减哪些部位的脂肪？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "极乐寺的取名有什么渊源？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "《今日观察》的相对固定评论员分别是代表了什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "口腔修复包含哪些内容？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "智能手机的PDA功能包括哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "厉以宁2008年起任什么职务？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "续以太匆匆为了什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "麦克白主要讲述了什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "杜牧的代表作有哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "本家润园的绿化率如何？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "泼尼松龙如何静滴？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "贵州广播电视大学的校区有哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "华盛顿杜勒斯国际机场的ICAO代码是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "1992年张学友推出的唱片是什么语言的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "云南大学的网址是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "逆战裁判的资费如何？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "2011年穷游获得哪的投资？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "走步式在腾空时采用什么动作技术配合？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "我的朋友很少属于哪种题材？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "三国英雄传的网游如何收费？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "茯苓被古人称作什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "惊蛰中马波担任什么职位？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "红光树属的拉丁名怎么写？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "北京时间2013年4月曼城官方发布了什么消息？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "YH-100是一种什么样的火箭发动机？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "2012年6月冰心与其丈夫的纪念碑被人涂上了哪几个字？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "赈早见琥珀主的头发是什么颜色的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "武陵星城附近有哪些学校？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "哪 个 博 物 馆 收 藏 了 宋 青 白 釉 印 花 回 纹 花 卉 盏 ？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "敬哀皇后的妹妹命运如何",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "紫杉醇能在哪些溶剂中溶解",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "乌米主要出现在哪种作物上",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "丙种球蛋白能预防什么病情",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "如何服用如圣散",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "银杏软胶囊适用于什么病情",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "舌苔白厚而干燥代表着身体怎么样",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "香港华仁书院地牢在1941年改成了什么",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "金栽经现在在哪个经纪公司",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "德国国会大厦重建后有什么不一样",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "印度共产党是左翼还是右翼",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "乌兹别克斯坦是什么气候",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "生物医学工程专业的主干学科是什么",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "黄腹角雉以什么为食",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "哪个公司发行了19e一卡通",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "如何用英文翻译“答非所问”",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "扪心自问”的“扪”是什么意思",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "丹河的名字的由来有什么故事",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "“精采”一词出自哪里",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "高清翡翠台的主要竞争对手是谁",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "高压套管有哪些分类",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "伦敦眼的窗户为什么不能打开",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "榉有哪些用途",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "莱顿大学缺少哪些专业？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "联合国大学与一般学校对比有哪些独树一帜的地方？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "什么是Google图书馆计划？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "约翰·杜威是从哪个大学毕业的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "解析几何的具体使用方法？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "提赛德大学师资力量介绍？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "作为加拉德特大学的学生必须具备的能力有哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "维尔茨堡大学的全称为？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "天主教总堂区学校最早为何成立？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "2011年时，强烈热带气旋雅思给澳洲地区造成多少危害？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "武汉西藏中学在10年获得过什么荣誉？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "卡尔·弗朗岑斯格拉茨大学名字由何而来？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "布拉德福德大学翻译成英语怎么说？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "教育学是指什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "设计模式(计算机)有什么好处？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "在线学习的出处？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "西南科技大学在第三届全国大学生机器人大赛中取得什么成绩？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "中华基督教会基朗中学有哪些运动类的学生学会？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "建极殿大学士属于多少品官？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "牛津大学哪个学院历史最悠久？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "大阪工业大学的环境工学科属于哪个部？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "新竹县立湖口高级中学在2011年评为什么学校？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "四平市第一高级中学刚成立时叫什么名字？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "华东师范大学外语学院有什么语系？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "东京富士大学短期大学部怎么翻译？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "剑桥大学考试委员会是英国什么之最？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "台北市私立奎山学校创建初期有什么教学方面的试行实验？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "2005蒋方舟成为了什么",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "思克莱德大学的名字有什么原由？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "提起杜岚校长最让大家熟知的一件事是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "中国人民解放军军事经济学院",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "我的世界的版权属于哪个公司？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "国立台中教育大学图书馆有哪些功能？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "西藏图书馆中有哪些借阅区？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "福冈女子短期大学在二十世纪八十年代创办了什么专业？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "广州大学华软软件学院被评为什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "循道中学的校舍有什么特色？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "太原工业大学材料工程学院以前叫做什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "广州市协和中学的师资力量如何？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "什么是校长？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "玛利曼中学用什么语言讲课？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "二十世纪三十年代北京大学法学院成立了什么院系？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "新疆师范高等专科学校有哪些专业？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "礼贤会彭学高纪念中学的简介？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "牛津大学格林坦普顿学院着重钻研哪些科目？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "塔林大学有哪些院系？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "毕业于乔治梅森大学的才干有哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "成都市第二十中学校获得过哪些赞誉？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "同志社大学有哪些院系？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "二十世纪二十年代杨振声(教育家)在国内担任了哪些职务？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "四川农业大学获得过哪些成就？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "二十世纪二十年代杨振声(教育家)在国内担任了哪些职务？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "东北农业大学在1977年恢复了哪个刊物？'",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "大学生志愿服务西部计划指的是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "大多数的远红外线天文学的观察是由什么来实现的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "国会图书馆(美国)一开始是为了什么而建立的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "普通教育发展证书考试的形式是？】",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "一个学区的学校数量怎么分配？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "教育哲学提出了哪些观点？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "如何形成北一区区域教学资源中心？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "韩国外国语大学创建伊始有哪几个院系？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "哪次会议通过了创办中共中央党校的提议？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "索韦托福音合唱团的哪首歌获得第81届奥斯卡最佳歌曲提名？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "特伦托会议指的是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "台北市立天文科学教育馆最初是由谁转变而来的？（其前身为台湾第一个天文教育机构“台北市立天文台”。）",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "渔翁岛灯塔的管辖机关是谁？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "长虹数字机顶盒包括哪些设备？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "圣王庙在什么碑上记载始建于明末清初？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "新都会广场的五楼有什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "维基主义美术中Wiki一词来源于哪里？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "棒打牛头怪游戏如何开始？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "枸椽酸铁铵的分子式是多少？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "克莱斯勒猎兽的商标图案是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "海南大学科研处办公室的日常工作有哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "金海花园知寓附近有哪些中小学？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "渣打银行在1957年收购了什么银行？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "b-link bl-843g的网络接口是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "云达不来梅体育俱乐部变更后的英文名怎么写？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "带套筒收缩包装机有哪两个方面？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "和谐3型电力机车的SS代表什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "与盐水竹埔国小时钟座一起被列为台南市文化资产还有哪座？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "鲍里斯·弗拉迪米罗维奇·阿萨菲耶夫写的比较出名的书是哪一本？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "猿江的名字是怎么来的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "漫画新选组异闻PEACE",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "ARMS指标突然升高意味着什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "陆游哪个诗集中提到了李贺？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "摇号限购的第十条是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "海南西沙中沙南沙群岛自然保护区的岛上植物具有哪些特性？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "剪刀门作为什么的特征被保留？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "MapReduce是什么的软件架构？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "什么叫洗频？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "阿勒泰坦克的土耳其语怎么说？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "weir的音乐作品有哪些？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "汽车年检的目的是什么？'",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "茅崎站的月台由北口侧开始顺次为什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "祭敖包节的仪式大致有哪四种？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "1947年爱达荷号战列舰发生了什么事？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "2013年东方丽人职业模特大赛的宗旨是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "百郁宁属于什么药品？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "安徽省黄金珠宝首饰行业商会的宗旨是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "百郁宁属于什么药品？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "茅草酒如何制备？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "地貌最小功原理的最小功原理可表达为什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "《纸牌屋》(美剧)用英文怎么说？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "《最游记》(游戏)由什么网络研发的？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "石头生日中石头不落地有什么寓意？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "松针油的主成分是什么？",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "西班牙超级杯被正式命名的时间？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "中西区圣安多尼学校是什么时候成立了校友会？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "台中市私立嘉阳高级中学最早是由谁在什么时候建立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "吴大学短期大学部是什么时候开始招收男学生的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "桃园市立光明国民中学是什么时候建立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "金城学院大学短期大学部什么时候停止办学的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "波城大学是在哪一年建立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "武汉大学水利水电学院哪一年开设水利工程系？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "复旦大学哲学学院什么时候重新招收留学生？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "名古屋造型艺术大学短期大学部截止招生和停止办学的时间分别是什么？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "广州市华师附中番禺学校哪年举办过校庆？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "王维是哪一年代的人",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "马凯特大学是什么时候，由谁创立的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "国立恒春高级工商职业学校第五任校长是谁，什么时候开始任职的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "冰与火之歌于何时发表？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "馒头发行日期是哪天？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "老爸老妈的浪漫史于什么时候首播的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "莫妮卡·塞莱斯都哪些年参加了澳网比赛并获得冠军？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "我想知道绫濑诗织是什么时候首播的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "佩里级护卫舰什么时候开始在部队投入使用",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "雷吉纳足球俱乐部于何时成立",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "庆尚北道的新世洞7层砖塔什么时候建造的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "中国移动通信研究院什么时候成立的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "《掘墓者》中，尤里克莫里什么时候决定成为一名掘墓人",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "数码摄像机什么时候出现的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "库兹涅佐夫号航空母舰是什么时候建造的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "博鳌山钦湾什么时候的开工的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "大连市中心医院北院什么时候开始使用的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "胜利号始建于何时",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "北京电视台文艺频道的《每日文娱播报》首播时间是什么时候",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "百世汇通什么时候开通了全球国际快件业务",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "居民什么时候能够住进雨润国际广场",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "百世汇通什么时候开通了全球国际快件业务",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "新濠天地晚上什么时候关门",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "雅芳什么时候打入中国市场",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "万安桥被炸后什么时候被修好的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "嘉实上城名都什么时候能开盘",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "第十五届奥运会在哪一年的7月19日举行的",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "邓迪联足球俱乐部什么时候加入的苏格兰联赛",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "刺参什么时候夏眠",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "汕头市第一中学的周年庆典是哪天？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "中国国家图书馆古籍馆曾于哪年加以修建？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "湖北省仙桃中学在什么时间更名为湖北省沔阳中学的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "欧南学校哪年开始招收女生？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "维克弗斯特大学成立时间？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "樟荫东短期大学创办于什么时间？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "国立基隆高级商工职业学校中级部设立具体时间？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "临沂大学何时得名？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "名古屋大学交换生的入学时间",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "青森短期大学是在什么时间内办学的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "哪年有的莲花大学？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "台湾首府大学是在哪一年更名的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "沙田循道卫理中学是什么时候开办的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "鲁道夫·菲尔绍的生日是什么时候？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "和洋女子大学短期大学部什么时候停止办学？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "上海市上海中学什么时候改为现有名字？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "南京大学现代工程与应用科学学院在哪年创立？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "国立台湾大学法律学院是什么时候开设的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "黎巴嫩大学是什么时候建立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "宫崎大学是什么进行时候迁址的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "三育学院短期大学什么时候停止招生？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "西安交通大学机械工程学院在什么时候迁址到西安的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "《泰晤士高等教育》什么时候改变了出版形式？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "浦项工科大学设立于哪一年？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "慈幼短期大学是什么时候创建的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "小原国芳生于何年？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "新亚中学是哪一年创立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "格林尼治大学是什么时候设立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "应用伦理学研究中心是什么时候被创办的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "国立台湾大学机械工程馆在哪一年建成？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "战火中毁坏的江苏省镇江中学在哪一年重新开办？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "立花里子什么时候引退的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "桃园美国学校什么时候开始录入学员的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "亚洲大学运动总会是什么时候开始创办的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "上海交通大学是什么时候更改为现用之名？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "名古屋工业大学短期大学部是什么时候停止授课的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "教育局(香港)是哪一年改为现有用名？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "共荣学园短期大学是什么时候被创建的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "平壤音乐舞蹈大学是哪一年改用现在的名字？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "桃园市立观音高级中学哪年开始招生？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "恐怖海湾上映的时间？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "国立中山大学在什么时候开始在台湾招生的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "九州大谷短期大学是什么时候被创建的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "中国动物学会于何时何地成立？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "中北大学朔州校区的名称是从什么时候启用的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "外周血管支架的批准日期是什么？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "利比里亚国旗是什么时候启用的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "《穆荷兰大道》是什么时候发行的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "贵州民族学院的研究生院是什么时候成立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "诺维亚语是什么时候创造的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "奕灏是在哪年死的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "教宗良二世什么时候在位的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "华人卫星电视地面发射站是什么时候建成的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "罗拔图·辛仙尼在哪年赢了欧洲超级杯冠军？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "在哪一年发生了火灾？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "创世纪乐团在什么时候宣布无限期停止演出？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "台湾铁道网哪年设立？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "1999年6月11日是周几？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "阿基米德·莫莱奥什么时候加盟博洛尼亚？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "电力监理工程师每年统考四次的时间是什么时候啊？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "紫金华府什么时候开盘？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "葫芦岛七星国际投资集团有限公司是哪一年创建的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "婴桃牌的申请日期是什么时候？‘’",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "穆斯塔法·凯末尔·阿塔蒂尔克什么时候晋升为上校？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "延吉朝阳川机场的1号候机楼什么时候落成？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "上海临江国际旅行社是什么时候成立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "侣程的总部奥克兰在什么期间为新西兰第二任首都？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "里奥艾维队是什么时候成立的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "星酷商务服务有限公司什么时候在杭州成立分公司？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "国家能源主动配电网技术研发中心的成立大会暨授牌仪式是什么时候举行的？",
+      "intent": "时间",
+      "entities": []
+    },
+    {
+      "text": "国立竹东高级中学在哪儿？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "俄国立宪会议在什么地方？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "北京101中学与哪些地方相邻？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "南九州短期大学在哪儿？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "文殊院在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "2013第十四届成都国际家具工业展览会的主办单位是哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "平安县解放初是什么哪个区的辖地？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "《孔子过泰山侧》出自哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "孟加拉虎主要分布在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "周凯帮助的母亲和孩子住在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "中华人民共和国第九届大学生运动会在哪里开幕的？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "卡文迪许实验室是由谁在哪年创建的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "格罗顿学校的学生都是从什么地方来的？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "亚里士多德17岁时去哪里就读20年？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "钱江摩托的公司地址在哪？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "2012中国（江西）汽车后市场产业博览会在哪里举办",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "远洋通州楼盘在哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "世界上的吉祥寺主要分布在哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "宋王台迁移前在哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "文殊院在哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "哪个地方的台风来自中沙群岛",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "中国古代十大主战场中排名第七的是哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "周凯帮助的母亲和孩子住在哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "孟加拉虎主要分布在哪里",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "中华人民共和国第九届大学生运动会在哪里开幕的",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "甲乙酮肟属于哪国公司的专利",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "雅盖沃统治了哪两个国家",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "武汉大学人民医院在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "台中市立东华国民中学员大多来自哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "甲南大学在什么地方？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "巴黎第十一大学位于哪些地方？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "新东方学校遍布哪些区域？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "牛津大学哈里斯·曼彻斯特学院在哪儿？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "孙明经是哪里人？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "柴湾公共图书馆的自修室在哪？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "水原大学的位置在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "英国政治经济图书馆在什么位置？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "四天王寺大学短期大学部在什么地方？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "嘉诺撒圣心学校原来在哪？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "大阪府立大学工业短期大学部在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "杜国庠曾在哪个国家留学？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "西南民族大学在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "阿姆斯特丹国家博物馆在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "王夫之的籍贯是哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "神户学院女子短期大学在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "大阪千代田短期大学坐落在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "香港中文大学－东华三院社区书院地址是什么？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "重庆大学建筑学部坐落在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "第一幅《岩间圣母》收藏在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "台南市北门社区大学在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "新跃大学位于哪个国家？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "上海科技大学的学生在哪里就餐？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "二十世纪五十年代澳门培道中学校址搬到哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "东海大学福冈短期大学在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "心理学与生活的出版社是哪？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "奥托出生地是哪？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "萝伦·浮士德在哪里成长？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "前503年齐国国夏进攻哪个国家？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "公元前727年周厉王在哪里死去？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "《幽灵船》(周德东著)的作者是哪里人？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "建筑门窗洞口尺寸系列标准起草单位是哪？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "田敬成毕业学校？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "左权将军殉难处的地址在哪里？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "戴艺于1990年在哪个大学学习音乐理论？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "东尼·克莱门特·麦考利夫在1919年毕业于什么学校？",
+      "intent": "地点",
+      "entities": []
+    },
+    {
+      "text": "皇后图书馆的受托人是谁任命的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "萨尔大学有哪些知名校友？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "北星学园大学短期大学部目前谁当校长？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "达州华南理工学校的副校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "新北市新庄区光华国民小学第三任校长是？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "新北市私立格致高级中学校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "上海市延安中学的校名是谁题字的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "婠婠的弟子是?",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "琉球乡的乡长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "《靠近》是谁负责出品的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "琉球乡的乡长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "明仁宗的张敬妃祖父是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "贞观19年哪位高僧得到太宗支持并开始翻译经文？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "环球唱片著名的歌星都有谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "祂是谁的儿子？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "阿岘洞夫人中王熙智由谁扮演？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "凤历元年谁率领进军突入洛阳宫？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "1600年秀忠的女儿嫁到了谁家？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "如果要联系重庆亿新建筑工程有限公司可以找谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "谁可以指导河南大学历史文化学院青年志愿者协会",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "电影《拉孔布·吕西安》导演是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "江西省文化厅党组书记是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "狗皮膏药是谁发明的",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "《灵刻》的绘图是谁负责的",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "2010年，谁在乌克兰总统选举中获胜的时候 江西省文化厅党组书记是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "关帝庙是为谁建的",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "“敬礼”这个行为是谁创造的",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "香港海关现任关长是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "明仁宗的张敬妃祖父是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "关兴的父亲是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "《最后一次》的导演是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "青山镇出过哪些著名人物",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "《羚羊木雕》中”我“最好的朋友是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "王峥不工作时，一般和谁在一起",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "劳安的哥哥是谁",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "附宝的丈夫是谁'",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "蚌埠回旋是谁首创的",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "谁给南开大学捐赠过大量款项？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "华容县第一中学最初是由谁创办的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "有哪些知名人士毕业于早稻田大学？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "大学线月刊的采访工作谁来做？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "玉川大学校友中有哪位是小说家？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "天津市耀华中学由谁创建",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "魏玛包豪斯大学的设计人是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "出自浙江大学的中科院院士都有谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "香港应用科技研究院现在由谁领导？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "有明教育艺术短期大学现在的最高领导是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "群马县立医疗短期大学首任校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "私立武昌中华大学的校训是哪位校长定的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "现在谁担任嘉诺撒圣玛利书院的最高领导？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "北京等离子体学会先进技术发展服务部的领导团队中都有哪几位？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "数理逻辑是由谁提出来的",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "崇明方言大词典是由谁编著的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "港澳信义会慕德中学在二十世纪七十年代的校监是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "早期中国史研究最初是由哪些学着编著的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "二十一世纪初谁参观了香港道教联合会邓显纪念中学？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "姚江学派最早是由谁建立的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "维也纳大学现在的最高负责人是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "苗栗县私立全人实验高级中学的创始人是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "百合的扮演者是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "女仆养成学园！～中林校长的野望～的作者是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "高雄市立大社国民中学第一任校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "立教女学院短期大学的首任校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "范德堡大学是由谁捐款创办的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "侍战队真剑者的配音是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "国立台湾大学公共卫生学院第一个所长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "新界乡议局元朗区中学管委会都有谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "螺旋丸是谁使用的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "狮子亭是谁主持的奠基？、",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "中日本自动车短期大学现在的校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "《隋唐演义》(1996版电视剧)的编剧是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "小行星2328是被谁发现的？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "中共西藏自治区委员会党史研究室的副主任是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "罗伊斯顿·德伦特在2013年夏天和谁签约？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "基隆市立安乐高级中学的首任校长是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "软机器乐队名取自谁的同名小说？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "乱了流年伤了婚的作者是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "无定飞环最早出自谁的小说《天佛掌》中？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "《花样男子》(韩国电视剧）的编剧是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "作者的笔名是什么？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "终归浮尘卡牌的画家是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "罗纳德·里根号航空母舰以哪位美国总统为名？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "盖亚的王侯的卡牌画家是谁？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "法国哪位博士发表了有关母亲酗酒的孩童特征？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "门真市跟哪个历史人物有关系？",
+      "intent": "人名",
+      "entities": []
+    },
+    {
+      "text": "彭水县职业教育中心有几个排球场？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2000年，向阳区辖几个街道？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "德涅斯特河沿岸有多少摩尔多瓦族的人？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "哈利法塔造价多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "奥斯坦金诺电视塔内有多少家餐厅？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "怀邵衡铁路的等级是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《白鹿原》的作者多大了？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "”东风天龙“重卡发动机最大排量有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "小说《流氓高手》周推荐量有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "塘口村人均耕地面积是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《个人取向》中的李敏镐身高多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "二氧化硫的S-O键长多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "兴凯湖年平均气温多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "同兴镇有多少水厂？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《寻爱上弦月》中男女主角几年后重逢？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "泰国正大集团有多少下属公司",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "西双版纳傣族自治州有多少种热带植物？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "长城皮卡每年出口多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《三国鼎立》中有多少可选择的兵种？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "梅林中学的教学和行政建筑面积达多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "混沌军团需要多大内存？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "汉城奥运会一共投资了多少钱？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "三阳镇距长荆铁路多少公里？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "八哥的繁殖期有多久？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "密战一共多少集？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "布洛马波卡纳上届的成绩如何？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2003年华硕的销售额达到多少人民币？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "火烈鸟的孵化期有多长？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "赤城的年平均气温有多少度？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2008年六安人论坛总数突破了多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "新城村年平均气温多少度？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "荣基翠堤湾计划能入住多少户人家？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "彭水县职业教育中心有几个排球场",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "德涅斯特河沿岸有多少摩尔多瓦族的人",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《矿业权出让转让管理暂行规定》第二条是什么",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "哈利法塔造价多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "赤霉素的熔点有多高",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "西安城墙距今有多久了",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2003年9月，飘柔推出的焗油精华露有几分钟",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "联合小学现在有多少教职工",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "怀邵衡铁路的等级是多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "奥斯坦金诺电视塔内有多少家餐厅",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "小说《流氓高手》周推荐量有多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "碳的原子序数是多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "”东风天龙“重卡发动机最大排量有多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "塘口村人均耕地面积是多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "长城皮卡每年出口多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "同兴镇有多少水厂",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "二氧化硫的S-O键长多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《个人取向》中的李敏镐身高多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《寻爱上弦月》中男女主角几年后重逢",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "兴凯湖年平均气温多少",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "北京天安中医院有多少科室",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "全世界有多少人使用傣仂语",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "伊利诺伊大学厄巴纳-尚佩恩分校的规模有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "吉林大学有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "北京大学校史约有多少年？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "加尔各答大学有多少老师？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "新不伦瑞克大学右几个校区？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "国立台湾大学博雅教学馆有多少大一点的环境可以让同学们学习？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "浸信会吕明才中学的经纬度是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "武汉大学标本馆有多少藏品？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "北京大学数学科学学院在全校院系中的序号是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "高雄市立新兴高级中学建校多少年了？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "圣康丁昂伊夫利纳-凡尔赛大学的图书馆有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "阿拉伯联合酋长国大学本部拥有几个校区？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "肯特大学教职工约有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "中美中心每年招收中国和美国的学生人数各是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "斯威本科技大学一共有多少学生？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "南京大学金陵学院有多大",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "南京大学金陵学院本科阶段有多少专业类别呢？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "浙江中医药大学在校人员有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "浙江大学湖滨校区占地面积有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "澳洲大学列表中的学校数量有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "二十一世纪初乌得勒支大学大概有多少人？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "史考特极地研究中心大概有多少人？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "肥西中学占地有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "赵佩茹有多少名徒弟？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "亚洲政党国际会议共有多少政党与会？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "渭南市瑞泉中学总面积有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "东华三院李嘉诚中学的经纬度是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "湖南师范大学生命科学学院约有多少人？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "德意志学术交流中心共有多少个办事处？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "康涅狄格大学有几个学园组成？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "郑州大学有多少个本科专业？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "收获(杂志)每年发行量是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "曲靖市第一中学的经纬度是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "灭菌丹的分子量是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "罗德里格斯在西甲联赛中打进多少球？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "皇家马德里足球俱乐部取得多少次欧洲冠军杯冠军？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "首尔表演艺术高中学费多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "氧化亚铜闪点是多少？‘’",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "东京都人口密度是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "源氏物语全书有多少回？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "中国平安保险(集团)股份有限公司在2011年《财富》世界500强企业中排名多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "安徽中医药大学有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "平壤外国语大学教授几门外语？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《因为我爱你》(推理小说)是2008年法国平装书畅销第几名？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "呹的笔顺编号是什么？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《大淘金》(1959年美国电视剧)在英国电影学院评出的100部最佳英国电影中名列第几？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "茌平镇的植被面积有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "蓟县人民医院城关分院位于天津市蓟县城关镇武定街的多少号？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "截至2002年佩纳罗尔一共赢得多少次乌拉圭联赛冠军？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《生死恋》(1984年法国电影)的片长是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "鹅毛口遗址中较小的石锄有多长？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "电脑速记机的专用键盘共有多少个键位？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "张效铭几岁开始进入影视圈？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2014年是第几个世界脊柱裂和脑积水病日？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "水溶性建筑胶黏剂需要多少高活性氧化锌来配制60kg内墙专用粉体胶水？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "内斯有多高？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "德国海盗党的党员年龄构成基本是多少岁？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "德国海盗党的党员年龄构成基本是多少岁？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "用户接入网的一般主干线约有多长？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2009年黑田博树是史上第几位于开幕战先发的日本投手？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "山东理工大学机械学会现有会员多少人？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "华硕rt-n12的尺寸是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "鄂薯7号的审定编号是什么？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "周志开(空军官校第七期，曾任空军第四大队大队长。)生前共击落几架敌机？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "自由级濒海战斗舰最多可搭载多重的武装及任务系统？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "萨隆加国家公园的海拔有多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "大理石平尺的吸水率是多少？‘’",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "无纺布袋缝合机个流程只需几个人进行操作？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "李欣翰有多重？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "成年的黑白兀鹫有多重？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "潘哈德装甲侦察车一共安装了多少个行走轮？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《中国电视》有多少开多少页？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "南通精壁帝装饰工程有限公司现有多少名管理人员职工？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "摩托罗拉e680i的游戏独有多少个方向的控制键？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "多普达t5388有多重？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "香港2004年奥运团由多少人组成？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "罗德里格斯在100比赛中多少次盗垒成功？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "卡瓦莱罗在球队的第一场正式比赛中射入几球？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "内湖庄役场会议室的经纬度是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "在忠武路站可以乘几号线？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "斋藤雅树获得了几次金手套奖？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2006年至2007年英格兰足球甲级联赛一共有多少个队？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "斋藤雅树获得了几次金手套奖？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "奥埃尔巴赫(奥地利)有多大？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "exe的安全等级是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "2014年Facebook宣布以多少钱收购WhatsApp？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "野马的前轮距是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "全球盛典限量发行多少册？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "神圣灌注法杖的每秒伤害是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "全球盛典限量发行多少册？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "科学是怎么收费的？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "特41人民大会堂的全套面值是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "钩藤煎每日服用几次？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "莲花肉饼需要用到多少克的盐？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "酒仙桥中心小学电话是多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "无锡市教育学会有多少会员？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "普宁市常住人口多少？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "时报周刊一刊几本？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《战略决定成败》书中提出了多少条战略法则？",
+      "intent": "数词",
+      "entities": []
+    },
+    {
+      "text": "《白鹿原》获得第几届茅盾文学奖？",
+      "intent": "数词",
+      "entities": []
+    }
+  ]
+}
